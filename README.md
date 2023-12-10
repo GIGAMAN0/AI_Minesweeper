@@ -16,15 +16,16 @@ This Python project implements the classic Minesweeper game, enhanced with an in
    ```bash
    git clone https://github.com/your-username/Minesweeper-AI.git
    cd Minesweeper-AI
-Run the Game:
+2. Run the Game:
 
-bash
-Copy code
-python runner.py
-Explore the Game:
+   ```bash
+   python runner.py
+
+## Explore the Game:
 
 Play Minesweeper interactively.
 Observe the AI's strategic moves.
-How to Play
+
+## How to Play
 Interactive Mode: Make moves and uncover cells using the traditional Minesweeper rules.
 AI Mode: Watch the AI in action, demonstrating logical reasoning and strategic decision-making.
